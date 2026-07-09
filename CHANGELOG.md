@@ -27,6 +27,11 @@ Versioning follows [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### Added
 
+- Phase 0.2.5: Framework QA and Milestone QA Rule
+  - Milestone QA Rule in BUILD_CONSTITUTION.md (permanent OES gate)
+  - Milestone QA checklist in definition-of-done.md
+  - Milestone QA reference in BUILD_CONSTITUTION.md.template
+  - Documentation sync fixes (MEMORY, PROJECT.yaml, MILESTONES, FRAMEWORK.md)
 - Phase 0.2: Project memory system and bootstrap templates
   - `.project/PROJECT.yaml` — framework identity
   - `.project/MEMORY.md` — living project state

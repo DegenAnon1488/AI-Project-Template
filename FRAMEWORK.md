@@ -87,8 +87,9 @@ Version 1.0 delivers a **stable, professional foundation**:
 
 | Phase | Deliverable | Status |
 |-------|-------------|--------|
-| 0.1 | Core skeleton, README, LICENSE | In progress |
-| 0.2 | `.project/` memory system and templates | Planned |
+| 0.1 | Core skeleton, README, LICENSE | Complete |
+| 0.2 | `.project/` memory system and templates | Complete |
+| 0.2.5 | Framework QA / Milestone QA gate | Complete |
 | 0.3 | `.cursor/` rules, skills, prompts, agents | Planned |
 | 0.4 | `.github/` templates, labels, Actions | Planned |
 | 0.5 | Bootstrap scripts and new-project workflow | Planned |

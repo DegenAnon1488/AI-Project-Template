@@ -2,11 +2,11 @@
 
 ## Last Updated
 
-2026-07-09 — Phase 0.2 in progress
+2026-07-09 — Phase 0.2.5 Framework QA complete
 
 ## Current Phase
 
-**0.2 — Project Memory System**
+**0.3 — Cursor Configuration** (next)
 
 ## What This Project Is
 
@@ -14,23 +14,24 @@ AI Project Template is the permanent engineering foundation (Oster Engineering S
 
 ## Current Focus
 
-Building the `.project/` memory system and bootstrap templates so child projects can inherit project identity, build rules, decision logs, history, and checklists.
+Phase 0.3 — Cursor configuration: AGENTS.md, rules, skills, prompts, and agents.
 
 ## Recent Decisions
 
 - Repository name: `AI-Project-Template` (descriptive, reusable)
 - Methodology name: Oster Engineering System (OES) — internal reference only
-- v1.0 scope: Phases 0.1–0.7 only; no speculative features
+- v1.0 scope: Phases 0.1–0.7 (including 0.2.5 QA gates) only; no speculative features
 - ARCHITECTURE.md and TECH_STACK.md templates deferred to Phase 0.6
+- **Milestone QA Rule** — permanent OES gate after every completed phase
 
 ## Open Questions
 
-None for Phase 0.2.
+None.
 
 ## Next Steps
 
-1. Complete Phase 0.2 deliverables (memory system, templates, checklists)
-2. Phase 0.3 — Cursor configuration (rules, skills, prompts, agents)
+1. Phase 0.3 — Cursor configuration (rules, skills, prompts, agents)
+2. Phase 0.4 — GitHub governance templates and Actions
 3. Phase 0.5 — Bootstrap scripts consume templates from `.project/templates/`
 
 ## Do NOT Build Yet
@@ -38,7 +39,6 @@ None for Phase 0.2.
 - Application code or business logic
 - ARCHITECTURE.md / TECH_STACK.md templates (Phase 0.6)
 - Bootstrap scripts (Phase 0.5)
-- Cursor rules and skills (Phase 0.3)
 - GitHub issue/PR templates (Phase 0.4)
 - Launch, release, or completion checklists (Phase 0.6)
 

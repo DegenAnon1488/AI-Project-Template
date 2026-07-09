@@ -46,17 +46,17 @@ This roadmap tracks development of the **framework itself**, not child projects.
 
 ---
 
-## Phase 0.2.5: Framework QA — Planned
+## Phase 0.2.5: Framework QA — Complete
 
 **Goal:** Verify Phase 0.2 deliverables and run Milestone QA before starting Phase 0.3.
 
 **Deliverables:**
 
-- [ ] Milestone QA Rule added to BUILD_CONSTITUTION.md
-- [ ] definition-of-done.md updated with Milestone QA gate
-- [ ] Framework QA checklist executed (9 verification items)
-- [ ] Failures fixed (MEMORY, MILESTONES, PROJECT.yaml, FRAMEWORK.md sync)
-- [ ] QA results logged in HISTORY/SESSION_LOG.md
+- [x] Milestone QA Rule added to BUILD_CONSTITUTION.md
+- [x] definition-of-done.md updated with Milestone QA gate
+- [x] Framework QA checklist executed (9 verification items)
+- [x] Failures fixed (MEMORY, MILESTONES, PROJECT.yaml, FRAMEWORK.md sync)
+- [x] QA results logged in HISTORY/SESSION_LOG.md
 
 **Success:** All Milestone QA checks pass; repo is consistent and self-explanatory.
 
@@ -145,7 +145,7 @@ This roadmap tracks development of the **framework itself**, not child projects.
 
 ## v1.0.0 Release Criteria
 
-All Phase 0.1–0.7 deliverables complete. See [.project/PARKING_LOT.md](PARKING_LOT.md) for items explicitly deferred.
+All Phase 0.1–0.7 deliverables complete (including 0.2.5 QA gates between phases). See [.project/PARKING_LOT.md](PARKING_LOT.md) for items explicitly deferred.
 
 ---
 

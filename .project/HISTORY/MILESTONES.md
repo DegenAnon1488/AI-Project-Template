@@ -16,4 +16,12 @@ Major completed milestones for the AI Project Template framework.
 
 **Phase:** 0.2 — Project Memory System  
 **Outcome:** `.project/` memory system, bootstrap templates, ADR/history structure, essential checklists  
-**Commit / tag:** Pending — `feat: add project memory system and bootstrap templates`
+**Commit / tag:** `7d7300e` — `feat: add project memory system and bootstrap templates`
+
+---
+
+## Phase 0.2.5 Complete — Framework QA — 2026-07-09
+
+**Phase:** 0.2.5 — Framework QA  
+**Outcome:** Milestone QA Rule added; Phase 0.2 deliverables verified; documentation inconsistencies fixed  
+**Commit / tag:** Pending — `chore: complete phase 0.2.5 framework QA`
