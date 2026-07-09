@@ -21,8 +21,8 @@ This roadmap tracks development of the **framework itself**, not child projects.
 - [x] .project/ROADMAP.md
 - [x] .project/PARKING_LOT.md
 - [x] Minimal directory skeleton
-- [ ] Git initialized on `main`
-- [ ] GitHub repository created and linked
+- [x] Git initialized on `main`
+- [x] GitHub repository created and linked
 
 **Success:** A developer can clone the repo and understand what it is within five minutes.
 
