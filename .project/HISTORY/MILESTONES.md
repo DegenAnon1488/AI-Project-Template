@@ -24,4 +24,4 @@ Major completed milestones for the AI Project Template framework.
 
 **Phase:** 0.2.5 — Framework QA  
 **Outcome:** Milestone QA Rule added; Phase 0.2 deliverables verified; documentation inconsistencies fixed  
-**Commit / tag:** Pending — `chore: complete phase 0.2.5 framework QA`
+**Commit / tag:** `3bc9b9d` — `chore: complete phase 0.2.5 framework QA`
