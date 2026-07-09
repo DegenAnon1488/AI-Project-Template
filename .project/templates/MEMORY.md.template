@@ -1,0 +1,38 @@
+# Project Memory
+
+## Last Updated
+
+{{CREATED_DATE}} — Project bootstrapped
+
+## Current Phase
+
+**0 — Foundation**
+
+## What This Project Is
+
+{{PROJECT_DESCRIPTION}}
+
+## Current Focus
+
+Phase 0 (Foundation): define vision, MVP scope, architecture, and roadmap before writing application code.
+
+## Recent Decisions
+
+- Project bootstrapped from AI Project Template (OES v{{FRAMEWORK_VERSION}})
+
+## Open Questions
+
+[List unresolved questions for the Architect session]
+
+## Next Steps
+
+1. Complete VISION.md with Product Owner and Architect
+2. Define MVP scope in MVP.md (include "NOT building" list)
+3. Draft ROADMAP.md Phase 0 and Phase 1
+4. First commit: `chore: bootstrap project from AI Project Template v{{FRAMEWORK_VERSION}}`
+
+## Do NOT Build Yet
+
+Application code until Phase 0 is complete and architecture is approved.
+
+See [BUILD_CONSTITUTION.md](BUILD_CONSTITUTION.md) and [CHECKLISTS/architecture-review-gate.md](CHECKLISTS/architecture-review-gate.md).

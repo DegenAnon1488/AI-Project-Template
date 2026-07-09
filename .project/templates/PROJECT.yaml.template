@@ -1,0 +1,27 @@
+name: "{{PROJECT_NAME}}"
+slug: "{{PROJECT_SLUG}}"
+type: "{{PROJECT_TYPE}}"
+phase: "0-foundation"
+methodology: Oster Engineering System
+framework_version: "{{FRAMEWORK_VERSION}}"
+owner: "{{OWNER}}"
+architect: ChatGPT
+implementation: Cursor
+status: bootstrapped
+created: "{{CREATED_DATE}}"
+
+domains: []
+
+pipeline_stages:
+  - raw-input
+  - formatter
+  - structured-data
+  - decision-engine
+  - output-generator
+  - qa-validation
+
+tech_stack: {}
+
+repository:
+  url: "{{REPOSITORY_URL}}"
+  default_branch: main

@@ -1,0 +1,58 @@
+# Roadmap
+
+**{{PROJECT_NAME}}**
+
+---
+
+## Phase 0: Foundation
+
+**Goal:** Set up project identity, documentation, and architecture before application code.
+
+**Deliverables:**
+
+- [ ] PROJECT.yaml populated
+- [ ] VISION.md drafted
+- [ ] MVP.md scoped with "NOT building" list
+- [ ] ROADMAP Phase 1 defined
+- [ ] Architecture approved by Owner and Architect
+- [ ] First commit after bootstrap
+
+**Success:** Team agrees on scope and architecture before coding.
+
+**Timeline:** [estimate]
+
+---
+
+## Phase 1: [First Build Phase Name]
+
+**Goal:** [Goal]
+
+**Deliverables:**
+
+- [ ] [Deliverable 1]
+- [ ] [Deliverable 2]
+
+**Not included:**
+
+- [Explicit exclusion 1]
+- [Explicit exclusion 2]
+
+**Success:** [Measurable outcome]
+
+**Timeline:** [estimate]
+
+---
+
+## Phase 2: [Next Phase Name]
+
+**Goal:** [Goal — fill when Phase 1 is complete]
+
+---
+
+## Future Phases
+
+Defer detailed planning until prior phase success criteria are met.
+
+---
+
+**Last Updated:** {{CREATED_DATE}}

@@ -1,0 +1,70 @@
+# Build Constitution
+
+**{{PROJECT_NAME}}** — Project-specific build rules.
+
+Derived from the Oster Engineering System (OES). Customize the sections below for this project's domain.
+
+Version: 1.0
+
+---
+
+## Mission
+
+[One sentence: what this project does and for whom]
+
+---
+
+## Roles
+
+See [BUILD_CONSTITUTION.md](../BUILD_CONSTITUTION.md) in the template framework for the standard three-role model (Product Owner / Architect / Cursor).
+
+---
+
+## Project-Specific Rules
+
+Add non-negotiable rules for this project. Examples:
+
+1. [Rule 1 — e.g., "Evidence collection only in the app"]
+2. [Rule 2 — e.g., "No decision logic in the UI layer"]
+3. [Rule 3]
+
+---
+
+## Pipeline Stages
+
+Define this project's data pipeline (customize stage names as needed):
+
+```
+[Raw Input]
+  → [Formatter]
+  → [Structured Data]
+  → [Decision Engine]
+  → [Output Generator]
+  → [QA / Validation]
+```
+
+---
+
+## Decision Filter
+
+Before building, ask:
+
+1. Does this help get users or customers?
+2. Does this improve accuracy, speed, or reliability?
+3. Does this reduce manual work?
+4. Is this required for the current MVP?
+
+If none apply, defer to the roadmap.
+
+---
+
+## Universal Rules (from OES)
+
+The following always apply — see the full [OES Build Constitution](https://github.com/DegenAnon1488/AI-Project-Template/blob/main/.project/BUILD_CONSTITUTION.md):
+
+- Plan before code
+- Smallest safe change
+- Stable I/O contracts
+- Test every change
+- GitHub is the source of truth
+- Documentation stays synchronized

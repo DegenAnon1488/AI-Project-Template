@@ -1,0 +1,35 @@
+name: AI Project Template
+slug: ai-project-template
+type: framework
+phase: "0.2-project-memory"
+methodology: Oster Engineering System
+framework_version: "1.0.0"
+owner: DegenAnon1488
+architect: ChatGPT
+implementation: Cursor
+status: active
+created: "2026-07-09"
+
+supported_project_types:
+  - ai-agent
+  - pwa
+  - saas
+  - api
+  - mobile-app
+  - desktop-app
+  - trading-system
+  - scanner
+  - knowledge-base
+  - rag-system
+  - automation-platform
+  - dashboard
+  - internal-tool
+  - data-pipeline
+  - cli
+  - library
+  - microservice
+
+repository:
+  url: https://github.com/DegenAnon1488/AI-Project-Template
+  default_branch: main
+  is_template: true

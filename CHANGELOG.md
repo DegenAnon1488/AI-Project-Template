@@ -25,4 +25,15 @@ Versioning follows [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
-Future phases (0.2–0.7) will be documented here as they ship.
+### Added
+
+- Phase 0.2: Project memory system and bootstrap templates
+  - `.project/PROJECT.yaml` — framework identity
+  - `.project/MEMORY.md` — living project state
+  - `.project/BUILD_CONSTITUTION.md` — OES build rules
+  - `.project/DECISIONS/` — ADR index and template
+  - `.project/HISTORY/` — session log and milestones
+  - `.project/CHECKLISTS/` — definition of done, architecture review gate
+  - `.project/templates/` — seven bootstrap templates for child projects
+
+Future phases (0.3–0.7) will be documented here as they ship.

@@ -6,7 +6,7 @@ This roadmap tracks development of the **framework itself**, not child projects.
 
 ---
 
-## Phase 0.1: Core Skeleton — In Progress
+## Phase 0.1: Core Skeleton — Complete
 
 **Goal:** Establish the repository identity and minimal structure.
 
@@ -28,19 +28,19 @@ This roadmap tracks development of the **framework itself**, not child projects.
 
 ---
 
-## Phase 0.2: Project Memory System — Planned
+## Phase 0.2: Project Memory System — Complete
 
 **Goal:** Create `.project/` templates and memory infrastructure.
 
 **Deliverables:**
 
-- PROJECT.yaml schema and template
-- MEMORY.md template
-- BUILD_CONSTITUTION.md template
-- ADR template and DECISIONS/ structure
-- HISTORY/ structure (session log, milestones)
-- Checklists (definition-of-done, architecture-review-gate)
-- Bootstrap-ready templates in `.project/templates/`
+- [x] PROJECT.yaml schema and template
+- [x] MEMORY.md template
+- [x] BUILD_CONSTITUTION.md template
+- [x] ADR template and DECISIONS/ structure
+- [x] HISTORY/ structure (session log, milestones)
+- [x] Checklists (definition-of-done, architecture-review-gate)
+- [x] Bootstrap-ready templates in `.project/templates/`
 
 **Success:** A bootstrapped child project has all memory files ready to customize.
 

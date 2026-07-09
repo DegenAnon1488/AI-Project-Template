@@ -1,0 +1,47 @@
+# MVP Scope
+
+**{{PROJECT_NAME}}** — Minimum useful version
+
+---
+
+## Goal
+
+[One sentence: the smallest version that creates real value]
+
+---
+
+## In Scope (MVP)
+
+- [ ] [Feature or capability 1]
+- [ ] [Feature or capability 2]
+- [ ] [Feature or capability 3]
+
+---
+
+## Out of Scope (NOT Building Yet)
+
+Explicit deferrals — do not build these until MVP ships:
+
+- [Non-goal 1]
+- [Non-goal 2]
+- [Non-goal 3]
+
+---
+
+## Success Criteria
+
+The MVP is successful when:
+
+1. [Criterion 1]
+2. [Criterion 2]
+3. [A non-technical user or real data validates the output]
+
+---
+
+## Timeline Estimate
+
+[Optional — e.g., 4–6 weeks]
+
+---
+
+**Last Updated:** {{CREATED_DATE}}
