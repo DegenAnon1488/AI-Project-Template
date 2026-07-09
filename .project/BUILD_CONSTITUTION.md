@@ -88,6 +88,7 @@ Each project defines its own pipeline stages in `PROJECT.yaml` and architecture 
 8. Preserve raw data when possible.
 9. Test every change.
 10. Commit only after review.
+11. Run Milestone QA after every completed phase before starting the next.
 
 ---
 
@@ -109,6 +110,28 @@ If none apply, defer to the roadmap.
 Before coding, complete [architecture-review-gate.md](CHECKLISTS/architecture-review-gate.md).
 
 If the ten questions are unclear, do not code yet.
+
+---
+
+## Milestone QA Rule
+
+After every completed phase or milestone, run Framework QA before starting the next phase.
+
+This applies even if the phase was documentation-only.
+
+Verify:
+
+- Required files exist
+- Documentation is internally consistent
+- Cross-references work
+- ROADMAP reflects current status
+- MEMORY.md reflects current status
+- CHANGELOG is updated
+- No unapproved scope was added
+- No application code was introduced in the framework repo
+- Future Developer Test passes
+
+Record results in [HISTORY/SESSION_LOG.md](HISTORY/SESSION_LOG.md). Fix failures before proceeding.
 
 ---
 

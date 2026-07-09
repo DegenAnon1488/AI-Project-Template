@@ -46,6 +46,22 @@ This roadmap tracks development of the **framework itself**, not child projects.
 
 ---
 
+## Phase 0.2.5: Framework QA — Planned
+
+**Goal:** Verify Phase 0.2 deliverables and run Milestone QA before starting Phase 0.3.
+
+**Deliverables:**
+
+- [ ] Milestone QA Rule added to BUILD_CONSTITUTION.md
+- [ ] definition-of-done.md updated with Milestone QA gate
+- [ ] Framework QA checklist executed (9 verification items)
+- [ ] Failures fixed (MEMORY, MILESTONES, PROJECT.yaml, FRAMEWORK.md sync)
+- [ ] QA results logged in HISTORY/SESSION_LOG.md
+
+**Success:** All Milestone QA checks pass; repo is consistent and self-explanatory.
+
+---
+
 ## Phase 0.3: Cursor Configuration — Planned
 
 **Goal:** Configure Cursor to understand OES on first open.

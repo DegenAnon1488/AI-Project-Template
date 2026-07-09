@@ -28,6 +28,23 @@ A roadmap phase is done when:
 - [ ] [ROADMAP.md](../ROADMAP.md) updated (phase marked complete)
 - [ ] [MILESTONES.md](../HISTORY/MILESTONES.md) updated
 - [ ] Owner validated manually where applicable
+- [ ] **Milestone QA / Future Developer Test passed** (see [BUILD_CONSTITUTION.md](../BUILD_CONSTITUTION.md) — Milestone QA Rule)
+
+---
+
+## Milestone QA (Framework Phases)
+
+Run after every framework phase (0.1, 0.2, 0.2.5, 0.3, …) before starting the next:
+
+- [ ] Required files exist
+- [ ] Documentation is internally consistent
+- [ ] Cross-references work
+- [ ] ROADMAP reflects current status
+- [ ] MEMORY.md reflects current status
+- [ ] CHANGELOG is updated
+- [ ] No unapproved scope was added
+- [ ] No application code in framework repo
+- [ ] Future Developer Test passes
 
 ---
 
