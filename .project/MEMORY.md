@@ -2,7 +2,7 @@
 
 ## Last Updated
 
-2026-07-09 — Phase 0.2.5 Framework QA complete
+2026-07-09 — Proven engineering principles added to BUILD_CONSTITUTION
 
 ## Current Phase
 
@@ -23,6 +23,9 @@ Phase 0.3 — Cursor configuration: AGENTS.md, rules, skills, prompts, and agent
 - v1.0 scope: Phases 0.1–0.7 (including 0.2.5 QA gates) only; no speculative features
 - ARCHITECTURE.md and TECH_STACK.md templates deferred to Phase 0.6
 - **Milestone QA Rule** — permanent OES gate after every completed phase
+- **Documentation Accuracy Rule** — no stale metadata; docs sync with commits
+- **Framework Dogfooding Rule** — prove improvements in framework first
+- **Rule of Proven Need** — infrastructure earns its place through real use
 
 ## Open Questions
 
@@ -41,5 +44,6 @@ None.
 - Bootstrap scripts (Phase 0.5)
 - GitHub issue/PR templates (Phase 0.4)
 - Launch, release, or completion checklists (Phase 0.6)
+- Agent Library, Prompt Library, Persona System, Playbooks (post-v1.0 — see PARKING_LOT)
 
 See [PARKING_LOT.md](PARKING_LOT.md) for deferred ideas.

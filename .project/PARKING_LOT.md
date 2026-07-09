@@ -48,6 +48,26 @@ Ideas that are **valuable but not required for v1.0**. Do not implement these un
 
 ---
 
+## Proven-Need Deferrals (Not Mature for v1.0)
+
+These ideas are approved conceptually but require real-world experience before implementation. See [Rule of Proven Need](BUILD_CONSTITUTION.md#rule-of-proven-need) in BUILD_CONSTITUTION.md.
+
+| Idea | Why It Waits |
+|------|-------------|
+| AI Team Configuration | Needs proven multi-agent workflow from child projects |
+| Agent Library (full system) | Minimal agent definitions in Phase 0.3 first; full library unproven |
+| Prompt Library (full system) | Minimal prompts in Phase 0.3 first; full library unproven |
+| Persona System | No demonstrated need across projects yet |
+| Pattern Library | Patterns should emerge from real projects first |
+| Playbooks | Requires repeatable workflows proven in production |
+| Framework Philosophy document | OES principles live in BUILD_CONSTITUTION for now |
+| Standards Library (expanded) | Phase 0.6 covers essentials; full library premature |
+| Review Scorecards | No review process mature enough to score yet |
+| Cross-project intelligence | Requires multiple child projects with shared lessons |
+| Advanced automation | Bootstrap and CI sufficient for v1.0 |
+
+---
+
 ## How to Promote an Item
 
 1. A child project demonstrates the need.
@@ -57,4 +77,4 @@ Ideas that are **valuable but not required for v1.0**. Do not implement these un
 
 ---
 
-**Last Updated:** 2026-07-09
+**Last Updated:** 2026-07-09 (proven-need deferrals added)

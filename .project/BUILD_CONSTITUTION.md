@@ -130,6 +130,7 @@ Verify:
 - No unapproved scope was added
 - No application code was introduced in the framework repo
 - Future Developer Test passes
+- Documentation accuracy (no stale metadata: commit hashes, milestone status, version numbers, roadmap state)
 
 Record results in [HISTORY/SESSION_LOG.md](HISTORY/SESSION_LOG.md). Fix failures before proceeding.
 
@@ -138,6 +139,38 @@ Record results in [HISTORY/SESSION_LOG.md](HISTORY/SESSION_LOG.md). Fix failures
 ## Documentation Rule
 
 Documentation is part of the software. Update docs in the same change as code. The repository must be self-sufficient — no external chat history required.
+
+---
+
+## Documentation Accuracy Rule
+
+If a commit changes information that is recorded elsewhere in the repository (commit hashes, milestone status, version numbers, roadmap state, release information, roadmap progress, etc.), all affected documentation must be updated before the phase is considered complete.
+
+The repository should never contain stale metadata. Documentation is considered part of the software.
+
+Milestone QA must verify documentation accuracy before a phase is closed.
+
+---
+
+## Framework Dogfooding Rule
+
+Every improvement to the engineering framework must first be used by the framework itself before being recommended for child projects.
+
+The framework should continuously validate its own standards. New engineering practices should be proven inside the framework before becoming part of the reusable project template.
+
+---
+
+## Rule of Proven Need
+
+Infrastructure should only be promoted into the framework after it has demonstrated value through real projects.
+
+Do not build organizational structures because they might be useful. Build them because multiple projects have proven they are useful.
+
+The framework should evolve from experience rather than speculation.
+
+Every new rule, template, agent, folder, prompt, workflow, or standard must earn its place through actual use. Avoid speculative engineering. Prefer proven engineering.
+
+The framework should never become smarter than the experience that created it.
 
 ---
 

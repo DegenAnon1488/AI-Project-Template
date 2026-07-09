@@ -143,6 +143,30 @@ This roadmap tracks development of the **framework itself**, not child projects.
 
 ---
 
+## Future Milestones (Post v1.0)
+
+These items are approved conceptually but **not approved for v1.0 implementation**. They require demonstrated value from real projects before promotion. See [.project/PARKING_LOT.md](PARKING_LOT.md).
+
+Do not implement until the Rule of Proven Need is satisfied.
+
+| Milestone | Description | Prerequisite |
+|-----------|-------------|--------------|
+| AI Team Configuration | Formal multi-agent team roles and handoffs | Multiple child projects using agents |
+| Agent Library | Full reusable agent catalog beyond Phase 0.3 essentials | Agent patterns proven in 2+ projects |
+| Prompt Library | Full reusable prompt catalog beyond Phase 0.3 essentials | Prompt patterns proven in 2+ projects |
+| Persona System | Defined AI personas for specialized tasks | Clear persona value from project use |
+| Pattern Library | Catalog of proven architecture and workflow patterns | Patterns extracted from real projects |
+| Playbooks | Step-by-step guides for recurring engineering tasks | Tasks repeated across 3+ projects |
+| Framework Philosophy | Standalone philosophy document | BUILD_CONSTITUTION sufficient until then |
+| Standards Library | Expanded standards beyond Phase 0.6 essentials | Gaps identified from child project use |
+| Review Scorecards | Quantified review criteria for plans and PRs | Review process mature and repeatable |
+| Cross-Project Intelligence | Shared lessons across child projects | 3+ child projects with feedback loop |
+| Advanced Automation | Beyond bootstrap scripts and basic CI | Manual workflows proven insufficient |
+
+**Implementation order for v1.0 is unchanged.** Phases 0.3–0.7 remain the active focus.
+
+---
+
 ## v1.0.0 Release Criteria
 
 All Phase 0.1–0.7 deliverables complete (including 0.2.5 QA gates between phases). See [.project/PARKING_LOT.md](PARKING_LOT.md) for items explicitly deferred.

@@ -27,6 +27,12 @@ Versioning follows [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### Added
 
+- Proven engineering principles in BUILD_CONSTITUTION.md
+  - Documentation Accuracy Rule
+  - Framework Dogfooding Rule
+  - Rule of Proven Need
+- Future milestones (post-v1.0) in ROADMAP.md
+- Proven-need deferrals in PARKING_LOT.md
 - Phase 0.2.5: Framework QA and Milestone QA Rule
   - Milestone QA Rule in BUILD_CONSTITUTION.md (permanent OES gate)
   - Milestone QA checklist in definition-of-done.md

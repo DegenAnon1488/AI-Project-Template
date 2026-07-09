@@ -38,6 +38,7 @@ Run after every framework phase (0.1, 0.2, 0.2.5, 0.3, …) before starting the 
 
 - [ ] Required files exist
 - [ ] Documentation is internally consistent
+- [ ] Documentation accuracy — no stale metadata (commit hashes, milestone status, version numbers, roadmap state)
 - [ ] Cross-references work
 - [ ] ROADMAP reflects current status
 - [ ] MEMORY.md reflects current status
